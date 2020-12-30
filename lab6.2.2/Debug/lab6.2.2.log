@@ -1,0 +1,4 @@
+﻿  lab6.2.2.cpp
+C:\Users\Yoda\source\repos\lab6.2.2\lab6.2.2.cpp(34): warning C4101: 'center': unreferenced local variable
+C:\Users\Yoda\source\repos\lab6.2.2\lab6.2.2.cpp(55): warning C4101: 'center': unreferenced local variable
+  lab6.2.2.vcxproj -> C:\Users\Yoda\source\repos\lab6.2.2\Debug\lab6.2.2.exe
